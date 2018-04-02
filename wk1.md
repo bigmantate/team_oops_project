@@ -14,13 +14,13 @@ netbooting and iPXE technology as it is something brand new to myself.
 
 ### Links I have been using
 
-https://elinux.org/R-Pi_PXE_Server
-https://wiki.debian.org/PXEBootInstall
+1.https://elinux.org/R-Pi_PXE_Server
+1.https://wiki.debian.org/PXEBootInstall
 
 #### Video links
 
-https://www.youtube.com/watch?v=zpzPuK6LNQ4
-https://www.youtube.com/watch?v=44RQGA2To5E
+1.https://www.youtube.com/watch?v=zpzPuK6LNQ4
+1.https://www.youtube.com/watch?v=44RQGA2To5E
 
 ##### Proceeding
 
